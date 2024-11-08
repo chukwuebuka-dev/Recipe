@@ -1,0 +1,27 @@
+* {
+    color: white;
+}
+
+.body {
+    background-color: #02023a7e;
+}
+
+.head {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+a {
+    color: beige;
+    font-weight: lighter;
+}
+.second, .third, .fourth {
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img{
+    height: auto;
+    width: 400px;
+}
+
